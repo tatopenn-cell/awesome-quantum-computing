@@ -77,6 +77,8 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Boulder Opal](https://q-ctrl.com/boulder-opal) - Python toolset for automating and optimizing quantum hardware performance.
 - [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [Covalent](https://github.com/AgnostiqHQ/covalent) - Framework for distributed computing on heterogeneous infrastructure from CPUs to GPUs to quantum computers.
+- * [Dense-Evolution](https://github.com/tatopenn-cell/Dense-Evolution) - A micro-optimized, high-performance NISQ Statevector quantum circuit simulator utilizing JAX XLA Kernel Fusion and hardware-adaptive memory chunking.
+
 - [Fire Opal](https://q-ctrl.com/fire-opal) - Python package for improving the quality of quantum algorithm results.
 - [IBM Quantum Experience](https://quantum-computing.ibm.com) - Online quantum composer to run experiments on real quantum computing hardware.
 - [Mitiq](https://mitiq.readthedocs.io/) - Python toolkit for implementing error mitigation techniques on quantum computers.
